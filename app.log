@@ -1,0 +1,35 @@
+2024-12-11 17:21:25,316 - INFO - Will check for files within the folder located at /home/wchekata/Programming/python/GMC_Image_Analysis/violating products
+2024-12-11 17:23:04,382 - INFO - Will check for files within the folder located at /home/wchekata/Programming/python/GMC_Image_Analysis/violating products
+2024-12-11 17:25:40,773 - INFO - Will check for files within the folder located at /home/wchekata/Programming/python/GMC_Image_Analysis/violating products
+2024-12-11 17:29:49,928 - INFO - Will check for files within the folder located at /home/wchekata/Programming/python/GMC_Image_Analysis/violating products
+2024-12-11 17:31:06,740 - INFO - Will check for files within the folder located at /home/wchekata/Programming/python/GMC_Image_Analysis/violating products
+2024-12-11 17:41:13,478 - INFO - Checking for files within the folder located at /home/wchekata/Programming/python/GMC_Image_Analysis/violating products
+2024-12-11 17:41:13,480 - ERROR - Error reading file 14.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,481 - ERROR - Error reading file 10.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,482 - ERROR - Error reading file 4.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,483 - ERROR - Error reading file 3.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,483 - ERROR - Error reading file 6.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,484 - ERROR - Error reading file 9.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,485 - ERROR - Error reading file 1.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,485 - ERROR - Error reading file 16.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,486 - ERROR - Error reading file 2.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,486 - ERROR - Error reading file 12.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,486 - ERROR - Error reading file 18.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,486 - ERROR - Error while verifying if file is a CSV: Could not determine delimiter
+2024-12-11 17:41:13,486 - ERROR - The file text.txt is not a CSV file.
+2024-12-11 17:41:13,488 - ERROR - Error reading file 13.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,489 - ERROR - Error reading file 17.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,490 - ERROR - Error reading file 11.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,492 - ERROR - Error reading file 15.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,492 - ERROR - Error reading file 7.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,493 - ERROR - Error reading file 5.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,493 - ERROR - Error reading file 8.csv: read_csv() got an unexpected keyword argument 'error_bad_lines'
+2024-12-11 17:41:13,494 - ERROR - Error while verifying if file is a CSV: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
+2024-12-11 17:41:13,494 - ERROR - The file image.csv is not a CSV file.
+2024-12-11 17:41:13,494 - WARNING - No valid CSV files found in the folder /home/wchekata/Programming/python/GMC_Image_Analysis/violating products.
+2024-12-11 17:45:51,620 - INFO - Checking for files within the folder located at /home/wchekata/Programming/python/GMC_Image_Analysis/violating products
+2024-12-11 17:45:51,651 - ERROR - Error while verifying if file is a CSV: Could not determine delimiter
+2024-12-11 17:45:51,651 - ERROR - The file text.txt is not a CSV file.
+2024-12-11 17:45:51,680 - ERROR - Error while verifying if file is a CSV: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
+2024-12-11 17:45:51,680 - ERROR - The file image.csv is not a CSV file.
+2024-12-11 17:45:51,713 - INFO - Combined CSV saved to /home/wchekata/Documents/merged.csv
