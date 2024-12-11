@@ -1,0 +1,9 @@
+# My Python CSV files merger
+
+## Description
+This project is a Python-based program that can merge multiple CSV files that have the same column structure into one csv file
+
+## Installation
+Run setup.sh file
+bash setup.sh
+
