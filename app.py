@@ -11,8 +11,8 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-folder_path = '/home/wchekata/Programming/python/GMC_Image_Analysis/violating products'
-path_to_merged_csv = '/home/wchekata/Documents/merged.csv'
+folder_path = 'Path to folder with the individual csv files'
+path_to_merged_csv = 'Full path to the merged csv file e.g ..../../merged.csv'
 
 logging.info(f"Checking for files within the folder located at {folder_path}")
 
